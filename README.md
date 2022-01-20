@@ -1,77 +1,77 @@
-## Your Name
+## Jack Winterschladen
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Following an eight-year-long career in management at a busy hotel, I had gotten just about all I could from hospitality; it was time for a change. 
+I've always been interested in development but never had any hands-on experience. I decided to work my way through virtual coding courses on CodeAcademy,
+RubyKoans and Codewars. Being able to take an idea and turn it into a fully-fledged, working program fascinates me and I knew that software development
+was the right direction for me. This brought me to Makers Academy, an intensive 12-week coding bootcamp that will take my fascination and turn it into a
+real-world compatible set of skills to help me take that next step in my career.
+
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         |                    Description                                                                                      | Tech/tools        |
+| ---------------------------- |                    -----------------                                                                                | ----------------- |
+| **Student Directory**        |A simple command line script that allows for managing students by adding, saving and loading them to and from files. | Ruby              |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Grand Hotel** (December 2013 - September 2021)  
+_Food & Beverage Manager_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Starting as part-time waiting staff in 2013, I quickly worked my way up into a managerial position, with my own department of staff.
+- I was in charge of all food and drinks service at the hotel, including a busy restaurant, three large function rooms and two seperate lounge/ bar areas.
+- When our 'Master of Ceremonies' retired, I took the opportunity to take on this position, allowing me to not only manage the staff,
+  but take on a more direct role with The Bride and Groom and run the flow of their guests and special day. As someone who was adverse to public speaking,
+  this was a huge step that took me right out of my comfort zone and gave me great new-found confidence and skills.
+- On working closely with each wedding over the years, the Grand Hotel has won multiple awards at the North of England Wedding Awards.
+- Implemented and maintained a new till system througout the hotel, constantly updating it with the latest menus and keeping track of stock.
+- Implemented and maintained a new booking system, enabling easy management of customer flow and busy periods. 
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Organizational / People skills 
 
--STAR
--What was the situation/task? (ST)
+Through working in a front-of-house managerial role for over five six years, my people skills have been truly tested.
+Given the non-stop busy nature of the hotel, it has been vital that I work well under pressure and maintain excellent
+patience and communication skills. 
 
--How was the skill used?
+#### Fast learning
 
--What did you do? (action)
+I am quick to take on infoprmation and learn new skills. I taught myself how to set up and work the new till and booking systems when working at my previous job
 
--What was the result?
+#### Attention to detail
 
+Working in a fine-dining environment and overseeing the preparation and setting up for countless weddings I've always needed a keen eye when it comes to detail.
+A skill that has proven useful when it comes to writing code and making sure everything is neat and in line.
 
-#### This Skill
+#### Team player
 
-- Experience
-- Achievements
-- Evidence (STAR)
+The key to success in my previous job was creating and being part of a well established and reliable team; a trait that is invaluble throughout all industries
 
-#### Another Skill
+#### Thrives under-pressure
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+As is the way of hospitality, much of my time was spent in fast paced, busy environments, where outstanding service was always at the forefront.
+Over time I've come to thrive under such presssure; a skill made even more crucial during the past few years with the covid-19 pandemic making 
+staff shortages ever more common.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy Coding Bootcamp (January 2022 - Present)
+- Use of Test Driven Development when creating projects
+- Frequent use of pair programming, focusing heavily on teamwork and communication
+- Gained in-depth knowledge of Ruby syntax
 
-#### Your University / College (start_date to end_date)
+#### King's School Tynemouth (2007 - 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- A level Biology, Ancient History and Economics
+- GCSE's
+- Member of the charities committee: helped organise school events to raise money for cahrity
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Playing Tennis
+- Weightlifting
+- Traveling 
