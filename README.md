@@ -3,15 +3,18 @@
 Following an eight-year-long career in management at a busy hotel, I had gotten just about all I could from hospitality; it was time for a change. 
 I've always been interested in development but never had any hands-on experience. I decided to work my way through virtual coding courses on CodeAcademy,
 RubyKoans and Codewars. Being able to take an idea and turn it into a fully-fledged, working program fascinates me and I knew that software development
-was the right direction for me. This brought me to Makers Academy, an intensive 12-week coding bootcamp that will take my fascination and turn it into a
-real-world compatible set of skills to help me take that next step in my career.
+was the right direction for me. This brought me to [Makers Academy](https://makers.tech/hire/), an intensive 12-week coding bootcamp that took my fascination and turned it into a
+real-world compatible set of skills that has prepared me to take the next step in my career.
 
 
 ## Projects
 
-| Name                         |                    Description                                                                                      | Tech/tools        |
-| ---------------------------- |                    -----------------                                                                                | ----------------- |
-| **Student Directory**        |A simple command line script that allows for managing students by adding, saving and loading them to and from files. | Ruby              |
+| Name                         |    Description      | Tech/tools        | Testing Tech |
+| ---------------------------- |  -----------------  | ----------------- | ------------ |
+| [**PantryPal**](https://pantrypal2022.herokuapp.com/) <br/> [(GitHub Repo)](https://github.com/EdCope/pantrypal)| An app that solves the everyday challenge of deciding what to eat by finding recipes based on the contents of your pantry. | MongoDB, Express, React, Node.js, Bcrypt, CSS, React-Bootstrap & Heroku | Jest, Cypress |
+| [**Acebook**](https://makerverse.herokuapp.com/) <br/> [(GitHub Repo)](https://github.com/nyahehnagi/acebook-makerverse)| A Facebook clone web-app that put to test our new-learned JavaScript skills | MongoDB, Express, Node.js, Handlebars, Bcrypt, CSS, Bootstrap & Heroku | Jest, Cypress |
+| [**MakersBnB**](https://github.com/nelsonclaire/Makersbnb)| Our first full-stack project: an AirBnB clone with a strong focus on MVC ideologies | Ruby, Sinatra, PostgreSQL, Bcrypt, CSS & Bootstrap | Rspec, Capybara |
+
 
 ## Work Experience
 
@@ -58,7 +61,7 @@ staff shortages ever more common.
 
 ## Education
 
-#### Makers Academy Coding Bootcamp (January 2022 - Present)
+#### Makers Academy Coding Bootcamp (January 2022 - April 2022)
 - Use of Test Driven Development when creating projects
 - Frequent use of pair programming, focusing heavily on teamwork and communication
 - Gained in-depth knowledge of Ruby syntax
