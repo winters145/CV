@@ -36,21 +36,20 @@ _Food & Beverage Manager_
 #### Organizational / People skills 
 
 Through working in a front-of-house managerial role for over five years, my people skills have been truly tested.
-Given the non-stop busy nature of the hotel, it has been vital that I work well under pressure and maintain excellent
-patience and communication skills. 
+Given the non-stop busy nature of the hotel, it has been vital that I work well under pressure whilst maintaining excellent
+patience and communication skills; something that has served me well when taking the role of navigator during a pair-programming session at Makers. 
 
 #### Fast learning
 
-I am quick to take on infoprmation and learn new skills. For our final project at Makers we implemented React for our front-end, having no prior experience with it. I taught myself how to set up and work the new till and booking systems when working at my previous job and had to teach other senior staff in how to use them.
+I am quick to take on information and learn new skills. For our final project at Makers we implemented React as our front-end tech, despite having no prior experience with it. I taught myself how to set up and work the new till and booking systems when working at my previous job and had to train other senior staff on how to use them.
 
 #### Attention to detail
 
-Working in a fine-dining environment and overseeing the preparation and setting up for countless weddings I've always needed a keen eye when it comes to detail.
-A skill that I've found has followed me into the world of programming, making sure everything is neat and in line.
+Working in a fine-dining environment and overseeing the preparation and setting up for countless weddings has meant I've always needed a keen eye when it comes to detail. A skill that I've found has followed me into the world of programming, making sure everything is neat and clear.
 
 #### Team player
 
-The key to success in my previous job was creating and being part of a well established and reliable team; a trait that has proven invaluble during my time working on group projects at Makers.
+The key to success in my previous job was creating and being part of a well established and reliable team; a trait that has proven invaluble during my time working on group projects and pair programming at Makers.
 
 #### Thrives under-pressure
 
@@ -61,11 +60,11 @@ Over time I've come to thrive under such presssure; a skill that was again put t
 ## Education
 
 #### Makers Academy Coding Bootcamp (January 2022 - April 2022)
-- Object Orientated Programming 
+- Object Orientated Programming, focusing on encapsulation through the use of classes and methods  
 - Strong focus on the use of Test Driven Development
-- Frequent use of pair programming and group projects, focusing heavily on agile teamwork and communication
-- Full-stack web development
-- Gained in-depth knowledge of JavaScript & Ruby languages syntax, with a great base of knowledge and ability to learn more
+- Frequent use of pair programming and group projects, replying heavily on agile teamwork and communication
+- Full-stack web development, in both JavaScript (M.E.R.N) & Ruby
+- Gained in-depth knowledge of JavaScript & Ruby syntax, as well as HTML and CSS, with a great base of knowledge, ability and desire to learn more
 
 #### King's School Tynemouth (2007 - 2013)
 
