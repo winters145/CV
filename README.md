@@ -27,7 +27,7 @@ _Food & Beverage Manager_
   but take on a more direct role with The Bride and Groom and run the flow of their guests and special day. As someone who thought myself adverse to public speaking,
   this was a huge step that took me right out of my comfort zone and gave me great new-found confidence and skills.
 - On working closely with each wedding over the years, the Grand Hotel has won multiple awards at the North of England Wedding Awards.
-- Implemented and maintained a new till system througout the hotel, constantly updating it with the latest menus and keeping track of stock.
+- Implemented and maintained a new till system throughout the hotel, constantly updating it with the latest menus and keeping track of stock.
 - Implemented and maintained a new booking system, enabling easy management of customer flow and busy periods. 
 
 
