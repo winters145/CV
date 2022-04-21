@@ -75,6 +75,7 @@ Over time I've come to thrive under such presssure; a skill that was again put t
 
 ## Hobbies
 
-- Playing Tennis
+- Tennis
+- Football
 - Weightlifting
-- Traveling 
+- Travelling 
