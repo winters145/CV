@@ -26,38 +26,29 @@ _Food & Beverage Manager_
 
 - Starting as part-time waiting staff in 2013, I quickly worked my way up into a managerial position, with my own department of staff.
 - I was in charge of all food and drinks service at the hotel, including a busy restaurant, three large function rooms and two seperate lounge/ bar areas.
-- When our 'Master of Ceremonies' retired, I took the opportunity to take on this position, allowing me to not only manage the staff,
-  but take on a more direct role with The Bride and Groom and run the flow of their guests and special day. As someone who thought myself adverse to public speaking,
-  this was a huge step that took me right out of my comfort zone and gave me great new-found confidence and skills.
-- On working closely with each wedding over the years, the Grand Hotel has won multiple awards at the North of England Wedding Awards.
-- Implemented and maintained a new till system throughout the hotel, constantly updating it with the latest menus and keeping track of stock.
-- Implemented and maintained a new booking system, enabling easy management of customer flow and busy periods. 
+- I took the opportunity to utilise my public speaking and time-management skills by taking on the role of Toastmaster for the weddings, ensuring a smooth, stress-free day and ultimately helping the hotel win multiple awards at the North of England Wedding Awards.
+- Introduced new till & booking systems, training staff and overseeing its integration, ensuring improved customer experience and manageability of busy periods.
 
 
 ## Skills
 
-#### Organizational / People skills 
+#### Strong Communicator & Team Player
 
 Through working in a front-of-house managerial role for over five years, my people skills have been truly tested.
-Given the non-stop busy nature of the hotel, it has been vital that I work well under pressure whilst maintaining excellent
-patience and communication skills; something that has served me well when taking the role of navigator during a pair-programming session at Makers. 
+Given the non-stop busy nature of the hotel, it has been vital that I ensure the team works well under pressure whilst maintaining excellent
+patience and communication skills; something I utilised well during our team projects at Makers. For example, ensuring that we always had open zoom calls that could be frequently dropped in and out of when a pair needed help, or to provide regular check-ins.
 
 #### Fast learning
 
-I am quick to take on information and learn new skills. For our final project at Makers we implemented React as our front-end tech, despite having no prior experience with it. I taught myself how to set up and work the new till and booking systems when working at my previous job and had to train other senior staff on how to use them.
+I am quick to take on information and learn new skills. I went from writing my first piece of code to being accepted onto the highly selective Makers Academy Bootcamp within a month.
+For our final project at Makers we implemented React as our front-end tech, despite having no prior experience with it.
+I taught myself how to set up and work the new till and booking systems when working at my previous job and had to train other senior staff on how to use them.
 
-#### Attention to detail
-
-Working in a fine-dining environment and overseeing the preparation and setting up for countless weddings has meant I've always needed a keen eye when it comes to detail. A skill that I've found has followed me into the world of programming, making sure everything is neat and clear.
-
-#### Team player
-
-The key to success in my previous job was creating and being part of a well established and reliable team; a trait that has proven invaluble during my time working on group projects and pair programming at Makers.
-
-#### Thrives under-pressure
+#### Thrives under-pressure & Attention to detail
 
 As is the way of hospitality, much of my time was spent in fast paced, busy environments, where outstanding service was always at the forefront.
-Over time I've come to thrive under such presssure; a skill that was again put to the test by the intense nature of the 12-week long Makers Bootcamp.
+Over time I've come to thrive under such presssure; a skill that was again put to the test by the intense nature of the 12-week long Makers Bootcamp, having only a week or two to build entire applications from scratch.
+Working in a fine-dining environment and overseeing the preparation and setting up for countless weddings has meant I've always needed a keen eye when it comes to detail. A trait that I've found has followed me into the world of programming, making sure everything is neat, clear and in-line.
 
 
 ## Education
@@ -67,12 +58,12 @@ Over time I've come to thrive under such presssure; a skill that was again put t
 - Strong focus on the use of Test Driven Development
 - Frequent use of pair programming and group projects, replying heavily on agile teamwork and communication
 - Full-stack web development, in both JavaScript (M.E.R.N) & Ruby
+- EQ curriculum, enhancing my already well practiced skills in empath, feedback & teamwork
 - Gained in-depth knowledge of JavaScript & Ruby syntax, as well as HTML and CSS, with a great base of knowledge, ability and desire to learn more
 
 
 ## Hobbies
 
-- Tennis
-- Football
-- Weightlifting
-- Travelling 
+- Playing Tennis (weather dependent!) - I'm no Andy Murray, but I've got a mean forehand!
+- [Watching] Football - I'm lucky enough to be a Newcastle United fan
+- Travelling - Somewhat halted by the pandemic, my favourite destination so far is Vietnam!
