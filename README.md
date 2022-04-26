@@ -47,7 +47,7 @@ I taught myself how to set up and work the new till and booking systems when wor
 #### Thrives under-pressure & Attention to detail
 
 As is the way of hospitality, much of my time was spent in fast paced, busy environments, where outstanding service was always at the forefront.
-Over time I've come to thrive under such presssure; a skill that was again put to the test by the intense nature of the 12-week long Makers Bootcamp, having only a week or two to build entire applications from scratch.
+Over time I've come to thrive under such pressure; a skill that was again put to the test by the intense nature of the 12-week long Makers Bootcamp, having only a week or two to build entire applications from scratch.
 Working in a fine-dining environment and overseeing the preparation and setting up for countless weddings has meant I've always needed a keen eye when it comes to detail. A trait that I've found has followed me into the world of programming, making sure everything is neat, clear and in-line.
 
 
@@ -58,7 +58,7 @@ Working in a fine-dining environment and overseeing the preparation and setting 
 - Strong focus on the use of Test Driven Development
 - Frequent use of pair programming and group projects, replying heavily on agile teamwork and communication
 - Full-stack web development, in both JavaScript (M.E.R.N) & Ruby
-- EQ curriculum, enhancing my already well practiced skills in empath, feedback & teamwork
+- EQ curriculum, enhancing my already well practised skills in empathy, feedback & teamwork
 - Gained in-depth knowledge of JavaScript & Ruby syntax, as well as HTML and CSS, with a great base of knowledge, ability and desire to learn more
 
 
