@@ -1,5 +1,7 @@
 ## Jack Winterschladen
 
+[Projects](https://github.com/winters145/CV#projects) | [Work Experience](https://github.com/winters145/CV#work-experience) | [Skills](https://github.com/winters145/CV#skills) | [Education](https://github.com/winters145/CV#education) | [Hobbies](https://github.com/winters145/CV#hobbies)
+
 Following an eight-year-long career in management at a busy hotel, I had gotten just about all I could from hospitality; it was time for a change. 
 I've always been interested in development but never had any hands-on experience. I decided to work my way through virtual coding courses on CodeAcademy,
 RubyKoans and Codewars. Being able to take an idea and turn it into a fully-fledged, working program fascinates me and I knew that software development
@@ -14,6 +16,7 @@ real-world compatible set of skills that has prepared me to take the next step i
 | [**PantryPal**](https://pantrypal2022.herokuapp.com/) <br/> [(GitHub Repo)](https://github.com/EdCope/pantrypal)| An app that solves the everyday challenge of deciding what to eat by finding recipes based on the contents of your pantry. | MongoDB, Express, React, Node.js, Bcrypt, CSS, React-Bootstrap & Heroku | Jest, Cypress |
 | [**Acebook**](https://makerverse.herokuapp.com/) <br/> [(GitHub Repo)](https://github.com/nyahehnagi/acebook-makerverse)| A Facebook clone web-app that put to test our new-learned JavaScript skills | MongoDB, Express, Node.js, Handlebars, Bcrypt, CSS, Bootstrap & Heroku | Jest, Cypress |
 | [**MakersBnB**](https://github.com/nelsonclaire/Makersbnb)| Our first full-stack project: an AirBnB clone with a strong focus on MVC ideologies | Ruby, Sinatra, PostgreSQL, Bcrypt, CSS & Bootstrap | Rspec, Capybara |
+| [**Bank Tech-Test**](https://github.com/winters145/bank-tech-test)| A practice tech-test focusing heavily on clean code, with a wide coverage TDD approach following DRY & SRP principles | Ruby | Rspec, Rubocop |
 
 
 ## Work Experience
@@ -65,12 +68,6 @@ Over time I've come to thrive under such presssure; a skill that was again put t
 - Frequent use of pair programming and group projects, replying heavily on agile teamwork and communication
 - Full-stack web development, in both JavaScript (M.E.R.N) & Ruby
 - Gained in-depth knowledge of JavaScript & Ruby syntax, as well as HTML and CSS, with a great base of knowledge, ability and desire to learn more
-
-#### King's School Tynemouth (2007 - 2013)
-
-- A level Biology, Ancient History and Economics
-- GCSE's
-- Member of the charities committee: helped organise school events to raise money for cahrity
 
 
 ## Hobbies
